@@ -71,7 +71,6 @@ Once configured, you can build and run the server.
     ```
     SigNoz MCP Server is running and connected via stdio.
     ```
-    The server now listens for MCP requests over stdio.
 
 ### MCP Client Configuration
 
