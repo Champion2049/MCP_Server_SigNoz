@@ -50,6 +50,7 @@ The server requires API credentials to connect to your SigNoz instance.
 
     # Your SigNoz API Key
     # Generate this from Settings -> API Keys in your SigNoz instance
+    # API keys can only be created/managed by users with the Admin role. If you don't have the Admin role, contact your organization's admin to create an API key for you.
     SIGNOZ_API_KEY="<YOUR_SIGNOZ_API_KEY>"
     ```
     Replace the placeholder values with your actual SigNoz URL and API key.
