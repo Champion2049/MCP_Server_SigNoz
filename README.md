@@ -65,7 +65,7 @@ Once configured, you can build and run the server.
     ```
 2.  Run the server:
     ```bash
-    npm start
+    node <BUILD_PATH_DIR>
     ```
     You should see a message indicating that the server is running:
     ```
